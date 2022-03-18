@@ -115,3 +115,5 @@ git add
 git commit
 git status
 git log --oneline
+git remote add origin [원격 URL]
+git push origin master
